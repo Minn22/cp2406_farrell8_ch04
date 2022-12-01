@@ -1,4 +1,4 @@
-/ This class discounts prices by 10%
+// This class discounts prices by 10%
 public class FixDebugFour4
 {
    public static void main(String args[])
